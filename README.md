@@ -131,7 +131,7 @@ Design:
 Once at beginning: open window go to walmart and log in 
 
 Main test:
-1) search for search terms given in spec (one after another; confirm title and product 
+1) search for search terms given in spec (one after another; confirm title and product \n
 2) assert that page loaded
 3) id an item to put into shopping cart (from socks)
 4) put item in the cart

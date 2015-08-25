@@ -141,9 +141,3 @@ Main test:
 8. remove item  <button..> Remove
 
 Once at the end: log out and quit chrome driver
-
-
-
-
-
-

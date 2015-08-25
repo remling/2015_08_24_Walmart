@@ -139,7 +139,6 @@ Main test:
 6) check what is in shopping cart (assert originally planned)
 7) ensure nothing else in the cart  (1 item? and expected product (by id))
 8) remove item  <button..> Remove
-9) assert cart is empty  <h3 class... Your cart: <span> 0 items </span>
 
 Once at the end: log out and quit chrome driver
 
